@@ -1,4 +1,4 @@
-# 洛提篇目
+# 原创篇目（整理中）
 
 - [Twilight Dreams](./TwilightDreams.md)  
 
@@ -13,3 +13,18 @@
 > 洛克昂：吸血鬼
 >
 > 提耶利亚：**女**巫
+
+- [What Angel Wakes Me](./WAWM.md)
+
+> 仲夏夜之梦paro，含FFXIV设定
+>
+> 洛克昂：森林猎人
+>
+> 提耶利亚：妖精
+
+
+# 翻译篇目
+
+- [初始概率](./Translate/TheProbabilityInBeginning.md)
+
+- [会呼吸的房间](./Translate/breathing.md)
