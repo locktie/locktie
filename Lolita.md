@@ -1,4 +1,6 @@
-<center>一</center>
+<p align="center">
+<b>一</b><br>
+</p>
 
 Dynames第一次见Nadleeh，她只得三岁，蜷成一团趴在Virtue长官的身上。听见Dynames的声音，Nadleeh胖乎乎的小脸转了过来，笑了。Dynames觉得传说中的天使也不过如此。Nadleeh把手伸出，大喊大叫，试图从爸爸怀里挣脱。
 
@@ -30,7 +32,9 @@ Dynames参加幼稚园家长会的时候，其他孩子的母亲说你这么年�
 
 嗯，我们不是一个妈。
 
-<center>二</center>
+<p align="center">
+<b>二</b><br>
+</p>
 
 Dynames因为“保父”的职务太忙，重大节日也常常不回老家。虽然他父母早亡，家里还有个女友。开始女友还经常和他打电话抱怨，后来电话的次数越来越少，二人间的交谈也越来越敷衍。
 
@@ -64,9 +68,9 @@ Nadleeh说得很认真，但口齿不清——她的门牙刚刚掉了一颗。
 Dynames心里苦，还是没憋住笑，最后哭笑不得说好好好，我记住了，我等你长大。
 
 
-<center>三</center>
-
- 
+<p align="center">
+<b>三</b><br>
+</p>
 
 Nadleeh十岁的暑假，有一晚天气燥热，屋外起伏的蝉声吵得她睡不着。最近军队特别忙，已经一个月没见过父亲了，连Dynames也很少过来。她睁眼看着窗外出神，突然响起的门铃声吓得她一惊。
 
@@ -115,9 +119,9 @@ Dynames先后把相处得还不错的几位女性带回家介绍给Nadleeh认识
 
 给他介绍对象的人也觉得无趣，后来就没了下文。
 
-<center>四</center>
-
- 
+<p align="center">
+<b>四</b><br>
+</p>
 
 快到Nadleeh十六岁生日的时候，Dynames问她想要什么礼物。Nadleeh歪着头想了想说我想要你。Dynames愣住了。Nadleeh扑哧一声说你怎么这么呆，我开玩笑的，你只要生日那天能陪我就好，我什么都不要。
 
@@ -176,9 +180,9 @@ Dynames把内心闪现的感觉归结成父亲看着女儿长大的失落感。
 
 至于约定好的把交上男朋友带回来见面，连影子都没有。
 
-<center>五</center>
-
- 
+<p align="center">
+<b>五</b><br>
+</p>
 
 这年冬天格外冷，水撒到地面上立刻凝成冰，出门就会有十几把刀子在脸上割着的那种冷。Nadleeh已经满十七岁，她换了发型，从双马尾换成披肩长发，也换了穿衣风格，从牛仔裤和衬衫改穿连衣裙，她有这个年纪应有的成熟和稚嫩。
 
@@ -248,9 +252,9 @@ Dynames扭过头，不再看Nadleeh。
 
 Nadleeh呆坐了一会，一言不发下床，拾起睡衣一颗颗把纽扣系上，然后轻轻关上Dynames的房门。
 
-<center>六</center>
-
- 
+<p align="center">
+<b>六</b><br>
+</p>
 
 那天过后，Nadleeh一切如常，正常到Dynames都怀疑那件事大概也许应该是场梦。
 
@@ -286,9 +290,9 @@ Dynames无言以对，他的责任只到Nadleeh十八岁生日。此后Nadleeh�
 
 Dynames预感剩下的这不到一年时间，每一天都会是对他的折磨。
 
-<center>七</center>
-
- 
+<p align="center">
+<b>七</b><br>
+</p>
 
 一夜，Nadleeh没有回家。手提不接，能找的地方都找遍了，不见她的踪影。Dynames急疯了。清早，Nadleeh像什么都没发生似的进了家门。
 
@@ -384,9 +388,9 @@ Dynames一边侵犯Nadleeh柔嫩的唇，一边脱掉她的外套，衬衣，裙
 
 我会娶你。
 
-<center>八</center>
-
- 
+<p align="center">
+<b>八</b><br>
+</p>
 
 此后，Nadleeh每日都早早回家，很少出门男孩一起玩了。
 
