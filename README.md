@@ -64,3 +64,5 @@
 - [初始概率](./Translate/TheProbabilityInBeginning.md)
 
 - [会呼吸的房间](./Translate/breathing.md)
+
+- [Home](./Translate/Home.md)
